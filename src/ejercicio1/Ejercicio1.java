@@ -33,7 +33,7 @@ public class Ejercicio1 {
         System.out.println("La suma de todos los números es: "+suma);
         System.out.println("La media de todos los números es: "+(suma/indice));
         System.out.println("El número máximo de la lista es: "+Collections.max(arrayEnteros));
-        System.out.println("El número mínimo de la lista es: "+Collections.min(arrayEnteros));
+        System.out.println("El Número mínimo de la lista es: "+Collections.min(arrayEnteros));
     }
     
 }
