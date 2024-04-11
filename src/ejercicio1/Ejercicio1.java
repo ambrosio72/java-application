@@ -29,7 +29,7 @@ public class Ejercicio1 {
         for(int i=0; i<arrayEnteros.size(); i++){
             suma = suma + arrayEnteros.get(i);
         }
-        //Esto es un comentario para la práctica de entornos de desarrollo (GIT)
+        
         System.out.println("La suma de todos los números es: "+suma);
         System.out.println("La media de todos los números es: "+(suma/indice));
         System.out.println("El número máximo de la lista es: "+Collections.max(arrayEnteros));
